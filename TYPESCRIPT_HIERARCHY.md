@@ -1,0 +1,127 @@
+- TypeScript File
+  - Import Statements
+  - Export Statements
+  - Declarations
+    - Variable Declarations
+      - let
+      - const
+      - var
+    - Function Declarations
+      - Named Functions
+      - Anonymous Functions
+      - Arrow Functions
+    - Class Declarations
+      - Constructor
+      - Properties
+      - Methods
+      - Accessors (get/set)
+      - Static Members
+    - Interface Declarations
+    - Type Alias Declarations
+    - Enum Declarations
+    - Namespace Declarations
+    - Module Declarations
+  - Statements
+    - Control Flow
+      - if...else
+      - switch
+      - for
+      - while
+      - do...while
+      - for...in
+      - for...of
+      - break
+      - continue
+      - return
+    - Exception Handling
+      - try...catch...finally
+      - throw
+  - Expressions
+    - Arithmetic Operators
+    - Comparison Operators
+    - Logical Operators
+    - Bitwise Operators
+    - Assignment Operators
+    - Conditional (Ternary) Operator
+    - Spread Operator
+    - Destructuring Assignment
+  - Types
+    - Primitive Types
+      - number
+      - string
+      - boolean
+      - null
+      - undefined
+      - symbol
+      - bigint
+    - Object Types
+      - Array
+      - Tuple
+      - Object Literal
+    - Function Types
+    - Union Types
+    - Intersection Types
+    - Type Assertions
+    - Literal Types
+    - Template Literal Types
+  - Type Manipulation
+    - Generics
+    - Utility Types
+      - Partial<T>
+      - Required<T>
+      - Readonly<T>
+      - Record<K,T>
+      - Pick<T,K>
+      - Omit<T,K>
+      - Exclude<T,U>
+      - Extract<T,U>
+      - NonNullable<T>
+      - ReturnType<T>
+      - InstanceType<T>
+    - Mapped Types
+    - Conditional Types
+    - Index Types
+    - Inferred Types
+  - Decorators
+    - Class Decorators
+    - Method Decorators
+    - Accessor Decorators
+    - Property Decorators
+    - Parameter Decorators
+  - Modules
+    - ES Modules
+    - CommonJS Modules
+  - Ambient Declarations
+    - Ambient Variables
+    - Ambient Functions
+    - Ambient Classes
+    - Ambient Enums
+    - Ambient Namespaces
+    - Ambient Modules
+  - JSX
+    - JSX Elements
+    - JSX Attributes
+    - JSX Children
+  - Configuration
+    - tsconfig.json
+      - Compiler Options
+      - Project References
+  - Type Declarations (.d.ts files)
+    - Global Declarations
+    - Module Declarations
+  - Advanced Types
+    - Discriminated Unions
+    - Indexed Access Types
+    - Conditional Types with infer
+  - TypeScript-specific Operators
+    - keyof
+    - typeof
+    - instanceof
+    - in
+  - Compiler Directives
+    - /// <reference>
+    - /// <reference types="...">
+    - // @ts-ignore
+    - // @ts-expect-error
+    - // @ts-nocheck
+    - // @ts-check
